@@ -68,3 +68,10 @@ Portfolio-React/
 ├── vite.config.js          # Vite configuration
 ├── package.json            # Scripts & dependencies
 └── README.md               # Project documentation
+```
+---
+## 😉 Checkout Other examples
+
+- Portfolio JavaScript : 👉 [Portfolio (JavaScript)](https://amiteshvsth.github.io/Portfolio-Javascript/)
+- Portfolio 2.0 : 👉 [Portfolio (JavaScript 2.0)](https://github.com/amiteshvsth/Portfolio-Javascript-2.0)
+- Portfolio Intro : 👉 [Portfolio Intro (JavaScript)](https://amiteshvsth.github.io/Portfolio-Intro-Javascript/)
